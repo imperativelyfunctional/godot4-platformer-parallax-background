@@ -6,5 +6,5 @@
 視頻地址：https://youtu.be/sdG0DH13iKU <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/contra-full/blob/main/demo.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/godot4-platformer-parallax-background/blob/main/demo.gif)
 
