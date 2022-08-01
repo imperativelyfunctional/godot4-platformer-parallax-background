@@ -1,6 +1,6 @@
 # Gotdot 4 parallax background
 
-# 本期是Godot 教學系列的第三期
+# 本期是Godot 教學系列的第四期
 
 # 教學內容包括：parallax background的製作
 視頻地址：https://youtu.be/sdG0DH13iKU <br>
